@@ -2,7 +2,7 @@
 
 -🌱 Softaware Engineering undergraduate at University of Westminster
 <br>
--📫 How to reach me: [ Linkedin](https://www.linkedin.com/in/mafoos-ahamed-403a70192)
+-📫 How to reach me: [ Linkedin](linkedin.com/in/mahfoos-ahamed-403a70192)
 
 
 ![Mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&theme=merko&count_private=true)
