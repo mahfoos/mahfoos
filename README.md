@@ -5,8 +5,8 @@
 -📫 How to reach me: [ Linkedin](https://www.linkedin.com/in/mafoos-ahamed-403a70192/)
 
 
-![Mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suranjan96&show_icons=true&theme=merko&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suranjan96&layout=compact) 
+![Mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&theme=merko&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoos&layout=compact) 
 <br/>
 
 Interested programming languages : 
