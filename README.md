@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Mahfoos Ahamed
 
--🌱 Softaware Engineering undergraduate at University of Westminster
+-🌱 Computer Science undergraduate at University of Westminster
 <br>
 -📫 How to reach me: [ Linkedin](https://www.linkedin.com/in/mahfoos-ahamed-403a70192/)
 
