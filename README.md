@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
 
 
-- 💬 Ask me about **Java, AngularJS, HTML&CSS, JS, TS**
+- 💬 Ask me about **Java,Python, AngularJS, HTML&CSS, JS, TS,**
 
 - 📫 How to reach me **umahfoosahamed@gmail.com**
 
