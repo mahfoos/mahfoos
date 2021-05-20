@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfoos Ahamed</h1>
-<h3 align="center">Undergraduate, Mentor, Developer, Medium Writer</h3>
+<h3 align="center">FullStack Web Developer | CS Undergraduate | Cloud-Native Enthusiast | ML Researcher</h3>
 <hr>
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
