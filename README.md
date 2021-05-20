@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects & Full Stack Web Projects**
 
-- 👨‍💻 All of my projects are available at [http://virajlakshitha.tk/](http://virajlakshitha.tk/)
 
 - 💬 Ask me about **Java, AngularJS, HTML&CSS, JS, TS**
 
