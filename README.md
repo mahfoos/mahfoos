@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,Python, AngularJS, HTML&CSS, JS, TS,**
 
-- 📫 How to reach me **umahfoosahamed@gmail.com**  | **http://mahfoosahamed.me/**
+- 📫 How to reach me **umahfoosahamed@gmail.com**  | **http://mahfoosahamed.me/#/home**
 
 ![mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&theme=merko&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoos&layout=compact) 
