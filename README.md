@@ -20,7 +20,6 @@
 ## 📊 My Github Stats
 
   <br/>
- ![Mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suranjan96&show_icons=true&theme=merko&count_private=true)
     <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Mahfoos Ahamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Mahfoos Ahamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
