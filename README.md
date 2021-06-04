@@ -20,8 +20,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Mahfoos Ahamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Rinoza Jiffry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  ![Mahfoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+<!--     <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Mahfoos Ahamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahfoos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mahfoos/github-readme-stats"><img alt="Mahfoos Ahamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
