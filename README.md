@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java,Python, AngularJS, HTML&CSS, JS, TS,**
 
-- 📫 How to reach me **umahfoosahamed@gmail.com**  | **http://mahfoosahamed.me/#/home**
+- 📫 How to reach me **umahfoosahamed@gmail.com**
 
 
 
