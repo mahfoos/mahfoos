@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfoos Ahamed</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | ML Researcher</h3>
+<h3 align="center">Full-Stack Developer | Researcher</h3>
 
 🎓 Education
 
