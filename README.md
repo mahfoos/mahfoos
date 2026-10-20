@@ -19,6 +19,7 @@ I build the systems around AI models (tools, memory, guardrails and evaluation) 
 
 ### 🌱 Open Source
 
+- [Jaseci / Jac](https://github.com/jaseci-labs/jaseci) ([my fork](https://github.com/mahfoos/jaseci)): contributor to the Jac programming language, an MIT-licensed, AI-native language where LLM calls, graph persistence, APIs, UIs and cloud deployment are built into the language.
 - [AyiPM](https://github.com/mahfoos/AyiPM): a self-hostable people and project management tool for small teams (Next.js, TypeScript, Prisma). Contributions welcome!
 
 ### 🎓 Education
