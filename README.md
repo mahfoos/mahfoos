@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfoos Ahamed</h1>
-<h3 align="center">AI/ML Engineer · Full-Stack & Mobile · LLM Agents</h3>
+<h3 align="center">Senior Engineer · Full-Stack · AI/ML · Cloud & DevOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahfoos-ahamed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -9,17 +9,17 @@
 
 I build the systems around AI models (tools, memory, guardrails and evaluation) that make AI reliable in real products, and the full-stack and mobile apps that ship it to users.
 
-### 🚀 What I'm doing now
+### 🚀 What I do
 
-- **AI/ML Engineer @ [Jaseci Labs](https://jaseci.org)**: working on [JacHammer](https://jachammer.ai), an AI agent that turns a plain-English prompt into a working, deployed app. I build its mobile app generation and the iOS/Android build pipeline, in [Jac](https://github.com/jaseci-labs/jaseci).
-- **Research & Project Supervisor @ IIT Sri Lanka**: supervising student research and final-year projects (previously Visiting Lecturer in Java & OOP).
-- **Open source**: building [AyiPM](https://github.com/mahfoos/AyiPM), a self-hostable people and project management tool for small teams (Next.js, TypeScript, Prisma). Contributions welcome!
+- **Full-Stack Development**: production web apps, SaaS platforms, dashboards and APIs with Next.js, React, Node.js, NestJS and Spring Boot
+- **AI/ML Engineering**: LLM-powered features, AI agents, AI code generation, and ML/NLP models in real products
+- **Mobile Development**: cross-platform iOS & Android apps with React Native
+- **Cloud & DevOps**: AWS, GCP and Azure deployments, Docker, Kubernetes and CI/CD pipelines
+- **Teaching & Mentoring**: supervising student research and final-year software projects
 
-### 🧭 Previously
+### 🌱 Open Source
 
-- **Mobile Engineer** on [Tobu](https://tobu.life), an AI photo-memory app on the App Store & Google Play (React Native, native iOS)
-- **Software Engineer @ promiseQ** (Berlin, remote): cloud-native backends on GCP
-- **Full-Stack Engineer @ Tech Venturas** (Colombo): APIs, Azure, Kubernetes, ML deployment
+- [AyiPM](https://github.com/mahfoos/AyiPM): a self-hostable people and project management tool for small teams (Next.js, TypeScript, Prisma). Contributions welcome!
 
 ### 🎓 Education
 
